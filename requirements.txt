@@ -117,8 +117,7 @@ tbb==2021.12.0
 tenacity==8.4.1
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-intel==2.16.1
+tensorflow==2.11.1  # TensorFlow compatible with Python 3.11
 termcolor==2.4.0
 threadpoolctl==3.5.0
 tifffile==2024.5.22
